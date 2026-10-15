@@ -1,0 +1,7 @@
+.brand-text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800; /* Extra Bold */
+  font-size: 4rem; /* Adjust the size as needed */
+  color: #0074C8;   /* Brainycode blue */
+  letter-spacing: 1px;
+}
